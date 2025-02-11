@@ -3,7 +3,7 @@
 **PET HOPE** 
 ### This is my **first project** at **ENIAC**, where I worked on **front-end development**.
 
-(https://github.com/kevin-simoes/PET-HOPE)
+[PET HOPE](https://kevin-simoes.github.io/PET-HOPE/PET%20HOPE/)  
 
 ## 🛠️ Technologies Used
 
